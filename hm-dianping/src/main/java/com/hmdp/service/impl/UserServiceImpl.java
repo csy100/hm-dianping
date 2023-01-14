@@ -80,7 +80,7 @@ public class UserServiceImpl extends ServiceImpl<UserMapper, User> implements IU
         }
 
         // 4. 验证码也校验成功，查询用户
-        User user = query().eq("phone", phone).one();
+        User user = this.query().eq("phone", phone).one();
 
         // 5. 若用户不存在，则直接创建新的用户即可，并保存至数据库中
         if (user == null) {
