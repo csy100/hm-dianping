@@ -7,6 +7,9 @@ import lombok.NoArgsConstructor;
 import javax.servlet.http.HttpSession;
 import java.util.List;
 
+/**
+ * 结果集，响应编码
+ */
 @Data
 @NoArgsConstructor
 @AllArgsConstructor

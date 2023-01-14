@@ -13,12 +13,9 @@ import javax.annotation.Resource;
 import javax.servlet.http.HttpSession;
 
 /**
- * <p>
- * 前端控制器
- * </p>
  *
- * @author 虎哥
- * @since 2021-12-22
+ * @author 陈思羽
+ * @since 2023-01-14
  */
 @Slf4j
 @RestController
@@ -47,7 +44,6 @@ public class UserController {
     @PostMapping("/login")
     public Result login(@RequestBody LoginFormDTO loginForm, HttpSession session){
         // TODO 实现登录功能
-
         return userService.login(loginForm,session);
     }
 

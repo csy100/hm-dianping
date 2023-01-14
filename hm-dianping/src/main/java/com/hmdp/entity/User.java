@@ -11,12 +11,9 @@ import java.io.Serializable;
 import java.time.LocalDateTime;
 
 /**
- * <p>
- * 
- * </p>
  *
- * @author 虎哥
- * @since 2021-12-22
+ * @author 陈思羽
+ * @since 2023-01-14
  */
 @Data
 @EqualsAndHashCode(callSuper = false)
