@@ -1,7 +1,6 @@
 package com.hmdp.utils;
 
 import com.hmdp.dto.UserDTO;
-import com.hmdp.entity.User;
 import org.springframework.web.servlet.HandlerInterceptor;
 
 import javax.servlet.http.HttpServletRequest;
