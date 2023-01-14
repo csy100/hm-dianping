@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.projectreactor:reactor-core:3.3.17.RELEASE">
+    <CLASSES>
+      <root url="jar://E:/csyApp/config/java_config/Maven/apache-maven-3.8.7/rep_mvn/io/projectreactor/reactor-core/3.3.17.RELEASE/reactor-core-3.3.17.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/csyApp/config/java_config/Maven/apache-maven-3.8.7/rep_mvn/io/projectreactor/reactor-core/3.3.17.RELEASE/reactor-core-3.3.17.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/csyApp/config/java_config/Maven/apache-maven-3.8.7/rep_mvn/io/projectreactor/reactor-core/3.3.17.RELEASE/reactor-core-3.3.17.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.tomcat.embed:tomcat-embed-core:9.0.46">
+    <CLASSES>
+      <root url="jar://E:/csyApp/config/java_config/Maven/apache-maven-3.8.7/rep_mvn/org/apache/tomcat/embed/tomcat-embed-core/9.0.46/tomcat-embed-core-9.0.46.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/csyApp/config/java_config/Maven/apache-maven-3.8.7/rep_mvn/org/apache/tomcat/embed/tomcat-embed-core/9.0.46/tomcat-embed-core-9.0.46-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/csyApp/config/java_config/Maven/apache-maven-3.8.7/rep_mvn/org/apache/tomcat/embed/tomcat-embed-core/9.0.46/tomcat-embed-core-9.0.46-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

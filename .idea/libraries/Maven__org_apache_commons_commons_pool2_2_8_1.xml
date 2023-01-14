@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.commons:commons-pool2:2.8.1">
+    <CLASSES>
+      <root url="jar://E:/csyApp/config/java_config/Maven/apache-maven-3.8.7/rep_mvn/org/apache/commons/commons-pool2/2.8.1/commons-pool2-2.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/csyApp/config/java_config/Maven/apache-maven-3.8.7/rep_mvn/org/apache/commons/commons-pool2/2.8.1/commons-pool2-2.8.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/csyApp/config/java_config/Maven/apache-maven-3.8.7/rep_mvn/org/apache/commons/commons-pool2/2.8.1/commons-pool2-2.8.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
