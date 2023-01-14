@@ -96,7 +96,7 @@ public class UserServiceImpl extends ServiceImpl<UserMapper, User> implements IU
     private User createUserWithPhone(String phone) {
         User user = new User();
         user.setPhone(phone);
-        // 生成随机nickName
+        // 生成随机 nickName
         user.setNickName(USER_NICK_NAME_PREFIX + RandomUtil.randomNumbers(10));
         // 保存用户到数据库中
         this.save(user);
