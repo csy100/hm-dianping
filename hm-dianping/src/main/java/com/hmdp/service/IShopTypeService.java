@@ -9,8 +9,8 @@ import com.baomidou.mybatisplus.extension.service.IService;
  *  服务类
  * </p>
  *
- * @author 虎哥
- * @since 2021-12-22
+ * @author 陈思羽
+ * @since 2023-01-24
  */
 public interface IShopTypeService extends IService<ShopType> {
 
