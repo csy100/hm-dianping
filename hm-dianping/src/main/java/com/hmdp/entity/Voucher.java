@@ -16,14 +16,14 @@ import java.time.LocalDateTime;
  * 
  * </p>
  *
- * @author 虎哥
- * @since 2021-12-22
+ * @author 陈思羽
+ * @since 2023-01-29
  */
 @Data
 @EqualsAndHashCode(callSuper = false)
 @Accessors(chain = true)
 @TableName("tb_voucher")
-public class Voucher implements Serializable {
+public class  Voucher implements Serializable {
 
     private static final long serialVersionUID = 1L;
 
