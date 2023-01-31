@@ -1,5 +1,5 @@
 # 该项目共分为前端和后端两个板块
-- 前端代码模块为 hm-dianping-front
+- 前端代码模块为 hm-dianping-front,双击nginx.exe文件即可运行
 - 后端代码模块为 hm-dianping
 # 请直接进入hm-dianping后端模块进行查看
 # 项目部分展示
